@@ -1,5 +1,9 @@
 import time
+# SI APARECE
+# maximum recursion depth exceeded in comparison
 
+# import sys
+# sys.setrecursionlimit(numero_limite)
 
 def factorial(n):
     response = 1
